@@ -22,23 +22,3 @@
   </tr>
 </table>
 
----
-
-### 🪨 Java: The Geo Architect
-
-Java bukan sekadar bahasa pemrograman. Ia adalah **arsitek kokoh** di dunia software seperti **Zhongli** yang mana stabil, disiplin, dan dibangun dengan fondasi yang tidak mudah runtuh.
-
----
-
-* **🧱 Stabil & Terstruktur:**  
-  Seperti Zhongli yang berdiri tegak sebagai Geo Archon, Java dikenal dengan struktur yang kuat dan aturan yang jelas. Semua hal harus tertata—tidak ada ruang untuk kekacauan.
-
-* **⚙️ Powerful & Enterprise Ready:**  
-  Java digunakan di sistem besar seperti banking, backend enterprise, hingga server skala global. Sama seperti kekuatan Geo yang kokoh dan tak tergoyahkan.
-
-* **🧠 Strict tapi Reliable:**  
-  Java tidak fleksibel seperti bahasa lain, tapi justru itu kekuatannya. Ia memaksa developer menulis kode yang rapi, aman, dan mudah dipelihara.
-
----
-
-> "Strength lies not in flexibility, but in unbreakable structure." — The Geo Architect
